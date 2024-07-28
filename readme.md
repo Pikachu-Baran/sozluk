@@ -1,0 +1,1 @@
+Bu benim ilk python uygulamam bir sözlğk uygulaması bu
